@@ -3,7 +3,7 @@
     #box {
         width: 22vw;
         height: 22vw;
-        overflow: clip;
+        overflow: hidden;
     }
     
     
